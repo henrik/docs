@@ -1,5 +1,7 @@
 # Tailwind CSS Documentation
 
+Please see the Phoenix [Code of Conduct](/phoenixframework/phoenix/blob/master/CODE_OF_CONDUCT.md) and [Contributing](/phoenixframework/phoenix/blob/master/CONTRIBUTING.md) guide.
+
 ## Developing
 
 Tailwind uses the [Jigsaw](http://jigsaw.tighten.co/) static site generator for its documentation. Here is how you can generate the documentation locally:
